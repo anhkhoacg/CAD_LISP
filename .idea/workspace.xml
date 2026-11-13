@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="af461c3e-b389-4016-9b3d-6e5f7fb733a2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/CAD_LISP.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TXT2ML.lsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TextCase.lsp" afterDir="false" />
-    </list>
+    <list default="true" id="af461c3e-b389-4016-9b3d-6e5f7fb733a2" name="Changes" comment="First lsp" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,8 +16,26 @@
     </persistenceIdMap>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--follow-tags" />
+        <option name="title" value="Current Branch" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "anhkhoacg"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/anhkhoacg/anhkhoacg",
+    "accountId": "02064719-1981-42a3-b70a-b8cd81759f7b"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 2,
   "fromUser": false
@@ -89,9 +99,22 @@
       <option name="presentableId" value="Default" />
       <updated>1794551152020</updated>
     </task>
+    <task id="LOCAL-00001" summary="First lsp">
+      <option name="closed" value="true" />
+      <created>1794553347668</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1794553347668</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First lsp" />
+    <option name="LAST_COMMIT_MESSAGE" value="First lsp" />
   </component>
 </project>
